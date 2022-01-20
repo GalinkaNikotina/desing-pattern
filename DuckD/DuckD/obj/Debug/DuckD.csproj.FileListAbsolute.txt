@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DuckD\DuckD\bin\Debug\DuckD.exe.config
+C:\Users\user\source\repos\DuckD\DuckD\bin\Debug\DuckD.exe
+C:\Users\user\source\repos\DuckD\DuckD\bin\Debug\DuckD.pdb
+C:\Users\user\source\repos\DuckD\DuckD\obj\Debug\DuckD.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DuckD\DuckD\obj\Debug\DuckD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DuckD\DuckD\obj\Debug\DuckD.exe
+C:\Users\user\source\repos\DuckD\DuckD\obj\Debug\DuckD.pdb
